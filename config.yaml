@@ -1,4 +1,4 @@
-name: Twingate Connector
+name: "Twingate Connector"
 version: "1.0.0"
 slug: "twingate_connector"
 description: "Runs the Twingate Connector inside Home Assistant OS"
