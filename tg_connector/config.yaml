@@ -1,6 +1,6 @@
 name: "Twingate Connector"
 description: "Runs the Twingate Connector inside Home Assistant OS"
-version: "0.1.0"
+version: "0.1.1"
 slug: "tg_connector"
 init: false
 arch:
