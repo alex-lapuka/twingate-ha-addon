@@ -3,9 +3,9 @@
 echo "Starting Twingate Connector..."
 
 # Fetch config values from Home Assistant
-NETWORK=$(bashio::config 'network_slug')
-ACCESS_TOKEN=$(bashio::config 'access_token')
-REFRESH_TOKEN=$(bashio::config 'refresh_token')
+NETWORK=$(bashio::config 'Network Slug')
+ACCESS_TOKEN=$(bashio::config 'Access Token')
+REFRESH_TOKEN=$(bashio::config 'Refresh Token')
 
 echo "Network: ${NETWORK}"
 echo "Access token: ${ACCESS_TOKEN}"
